@@ -46,6 +46,7 @@ Hinweis: Linux nutzt /, wie URL, im Gegensatz dazu nutzt Windows \
 | mkdir   (makedir)   | Ordner erzeugen                                              |
 | rmdir   (removedir) | Ordner ohne Inhalt löschen                                   |
 | rm -r <dir>         | Ordner mit Inhalt löschen                                    |
+| rm -rf .git         | Git-Repository in Ordner löschen                             |
 
 # Globbing
 | Code           | Erklärung                                                    |
